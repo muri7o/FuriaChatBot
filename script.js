@@ -13,38 +13,38 @@ document.addEventListener('DOMContentLoaded', function () {
         pt: {
             welcome: "Olá! Eu sou o Pantera, assistente oficial da FURIA. Escolha uma pergunta abaixo para começarmos!",
             questions: [
-                { text: "Qual o próximo jogo?", response: "Nosso próximo jogo está marcado para 29 de abril, contra a MIBR no campeonato ESL Pro League. Uma partida que promete muita emoção!" },
-                { text: "Quem são os jogadores?", response: "Nosso lineup atual de CS conta com: arT, KSCERATO, yuurih, drop e saffee. Uma equipe de estrelas comandada pelo IGL arT!" },
-                { text: "Qual a história da FURIA?", response: "A FURIA foi fundada em 2017 e rapidamente se tornou uma das principais organizações de esports da América Latina." },
-                { text: "Quais são as conquistas da FURIA?", response: "Entre nossas principais conquistas estão: o ESEA S31 Premier (2019), ESL Pro League S12 NA (2020) e BLAST Premier Fall (2023)." },
-                { text: "Qual é o estilo de jogo da FURIA?", response: "Somos conhecidos pelo estilo agressivo e imprevisível, baseado em timing e decisões rápidas!" },
-                { text: "Redes sociais da FURIA", response: "Você pode seguir a FURIA em todas as redes sociais como @FURIA!" }
+                { text: "Quem são os jogadores?", response: "Nosso lineup atual de CS conta com: FalleN, yuurih, YEKINDAR, KSCERATO e molodoy!" },
+                { text: "Qual a história da FURIA?", response: "A FURIA é uma organização de esports brasileira que começou no CS com o objetivo de representar o país e se tornou um movimento sociocultural. Com foco em performance, lifestyle, conteúdo, negócios, tecnologia e impacto social, une pessoas e inspira sonhos dentro e fora dos jogos." },
+                { text: "Quais são as conquistas da FURIA?", response: "Entre as principais conquistas da FURIA no CS estão: Elisa Masters Espoo 2023, Elisa Invitational Summer 2021, ESL Pro League Season 12: North America, DreamHack Masters Spring 2020: North America, Arctic Invitational 2019, EMF CS:GO World Invitational 2019 e ESEA Season 31: Global Challenge. Cada título representa a garra e a evolução da nossa história!" },
+                { text: "Quem fundou a FURIA?", response: "A FURIA foi fundada por Jaime Pádua, André Akkari e Cris Guedes, com o propósito de transformar o cenário brasileiro de esports e levar a paixão competitiva para o mundo." },
+                { text: "Onde posso assistir aos jogos?", response: "Você pode acompanhar os jogos da FURIA ao vivo nos canais oficiais da ESL, Blast, Twitch e YouTube, além das redes sociais da organização!" },
+                { text: "Redes sociais da FURIA", response: "Você pode seguir a FURIA em todas as redes sociais como @FURIA ou @FURIAGG!" }
             ]
         },
         en: {
             welcome: "Hi! I'm Pantera, the official FURIA assistant. Choose a question below to get started!",
             questions: [
-                { text: "When is the next match?", response: "Our next match is on April 29th against MIBR in the ESL Pro League. It’s going to be an exciting one!" },
-                { text: "Who are the players?", response: "Our current CS lineup includes: arT, KSCERATO, yuurih, drop and saffee. A star-studded team led by IGL arT!" },
-                { text: "What is FURIA’s history?", response: "FURIA was founded in 2017 and quickly became one of the top esports organizations in Latin America." },
-                { text: "What are FURIA’s achievements?", response: "Our top achievements include: ESEA S31 Premier (2019), ESL Pro League S12 NA (2020), and BLAST Premier Fall (2023)." },
-                { text: "What is FURIA’s playstyle?", response: "We're known for our aggressive and unpredictable style, based on timing and quick decisions!" },
-                { text: "FURIA's social media", response: "You can follow FURIA on all social media as @FURIA!" }
+                { text: "Who are the players?", response: "Our current CS lineup includes: FalleN, yuurih, YEKINDAR, KSCERATO and molodoy!" },
+                { text: "What is FURIA’s history?", response: "FURIA is a Brazilian esports organization that started in CS with the goal of representing the country and became a sociocultural movement. Focused on performance, lifestyle, content, business, technology, and social impact, it brings people together and inspires dreams both in and out of the game." },
+                { text: "What are FURIA’s achievements?", response: "FURIA’s top CS achievements include: Elisa Masters Espoo 2023, Elisa Invitational Summer 2021, ESL Pro League Season 12: North America, DreamHack Masters Spring 2020: North America, Arctic Invitational 2019, EMF CS:GO World Invitational 2019, and ESEA Season 31: Global Challenge. Each trophy marks a chapter in our fierce and proud journey!" },
+                { text: "Who founded FURIA?", response: "FURIA was founded by Jaime Pádua, André Akkari, and Cris Guedes, with the goal of transforming the Brazilian esports scene and spreading competitive passion worldwide."},
+                { text: "Where can I watch the matches?", response: "You can watch FURIA’s matches live on official ESL and BLAST streams, Twitch, YouTube, and also stay tuned via our social media!" },
+                { text: "FURIA's social media", response: "You can follow FURIA on all social media as @FURIA or @FURIAGG!" }
             ]
         },
         es: {
             welcome: "¡Hola! Soy Pantera, el asistente oficial de FURIA. ¡Elige una pregunta para comenzar!",
             questions: [
-                { text: "¿Cuál es el próximo partido?", response: "Nuestro próximo partido es el 29 de abril contra MIBR en la ESL Pro League. ¡Una partida que promete emociones!" },
-                { text: "¿Quiénes son los jugadores?", response: "Nuestra alineación actual de CS incluye: arT, KSCERATO, yuurih, drop y saffee. ¡Un equipo estelar liderado por el IGL arT!" },
-                { text: "¿Cuál es la historia de FURIA?", response: "FURIA fue fundada en 2017 y rápidamente se convirtió en una de las principales organizaciones de esports en América Latina." },
-                { text: "¿Cuáles son los logros de FURIA?", response: "Nuestros principales logros incluyen: ESEA S31 Premier (2019), ESL Pro League S12 NA (2020) y BLAST Premier Fall (2023)." },
-                { text: "¿Cuál es el estilo de juego de FURIA?", response: "¡Somos conocidos por nuestro estilo agresivo e impredecible, basado en el timing y decisiones rápidas!" },
-                { text: "Redes sociales de FURIA", response: "¡Puedes seguir a FURIA en todas las redes sociales como @FURIA!" }
+                { text: "¿Quiénes son los jugadores?", response: "Nuestra alineación actual de CS incluye: FalleN, yuurih, YEKINDAR, KSCERATO y molodoy." },
+                { text: "¿Cuál es la historia de FURIA?", response: "FURIA es una organización brasileña de esports que comenzó en CS con el objetivo de representar al país y se convirtió en un movimiento sociocultural. Con enfoque en rendimiento, estilo de vida, contenido, negocios, tecnología e impacto social, une personas e inspira sueños dentro y fuera del juego." },
+                { text: "¿Cuáles son los logros de FURIA?", response: "Entre los logros más importantes de FURIA en CS se encuentran: Elisa Masters Espoo 2023, Elisa Invitational Summer 2021, ESL Pro League Season 12: North America, DreamHack Masters Spring 2020: North America, Arctic Invitational 2019, EMF CS:GO World Invitational 2019 y ESEA Season 31: Global Challenge. ¡Cada título refleja la pasión y crecimiento de nuestra historia!" },
+                { text: "¿Quiénes fundaron FURIA?", response: "FURIA fue fundada por Jaime Pádua, André Akkari y Cris Guedes, con el propósito de transformar el escenario brasileño de los esports y llevar la pasión competitiva al mundo."},
+                { text: "¿Dónde puedo ver los partidos?", response: "Puedes ver los partidos de FURIA en vivo en los canales oficiales de ESL, BLAST, Twitch y YouTube, además de seguirnos en las redes sociales." },
+                { text: "Redes sociales de FURIA", response: "¡Puedes seguir a FURIA en todas las redes sociales como @FURIA o @FURIAGG!" }
             ]
         }
     };
-
+    
     const content = messages[lang] || messages['pt'];
     addBotMessage(content.welcome);
     renderQuestionButtons(content.questions);
